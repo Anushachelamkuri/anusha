@@ -1,0 +1,20 @@
+body{
+    background-image: url('brown-background-887562-1748.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+img{
+    width:300px;
+    height:300px;
+    float: left;
+}
+body{
+    background-image: url('white-background-2B77FWJ.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+img{
+    width:300px;
+    height:300px;
+    float:left;
+}
